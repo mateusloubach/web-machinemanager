@@ -1,9 +1,7 @@
-# My Wallet - An React Web Application
+# trChallenge - A React Web Application
 
 Not every dashboard has to be square and bland.
-[PAGE](https://priceless-wozniak-c035f9.netlify.app/)
-
-![GIF](https://66.media.tumblr.com/d779752ccf40fcad7f8bb1a9b1b6c36e/tumblr_pv91snm0GG1s9a9yjo1_400.gif)
+[PAGE](https://tr-challenge.vercel.app/)
 
 <!-- The application was also created with responsiveness in mind.(space, space)
 ![GIFmobile](https://66.media.tumblr.com/d779752ccf40fcad7f8bb1a9b1b6c36e/tumblr_pv91snm0GG1s9a9yjo1_400.gif) -->
@@ -26,12 +24,12 @@ Not every dashboard has to be square and bland.
 ### `clone`
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/Wtheodoro/machine-manager
+    git clone https://github.com/mateusloubach/tr_challenge.git
 
-You can clone by click on the GitHub green button "CODE" and download the .zip
+You can clone by clicking the GitHub green button above and download the .zip file
 
 ### `npm install`
-This project depends on some dependencies, so the command **npm install** takes care of installing all of them
+This project requires npm dependencies, so the command **npm install** takes care of installing all of them in one command :)
 
     npm install
 
@@ -44,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### `Sign In`
-Here is a e-mail and password to sign in.
+Here is a mock e-mail and password to sign in.
 - helen@facebook.com
 - 123456
 
