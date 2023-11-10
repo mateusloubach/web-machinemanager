@@ -5,7 +5,7 @@ export const Container = styled.div`
   width: 100%;
   height: 6rem;
   background: #f9f9f9;
-  background-image: url("./images/shiny-textured-background-min.jpg");
+  background-image: url("./images/bg.jpg");
   background-size: cover;
 
   display: flex;

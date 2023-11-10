@@ -5,9 +5,9 @@ const DashBoardCard: React.FC = () => {
   return (
     <S.Container>
       <h3>
-        Some<br/>
-        <strong>importante info</strong><br/>
-        that I do not thought about yet.
+        All Machine<br/>
+        <strong>statistics and analytics</strong><br/>
+        will be shown here.
       </h3>
     </S.Container>
   )

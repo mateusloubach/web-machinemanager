@@ -43,6 +43,7 @@ export const LeftSide = styled.div`
   }
 
   > form {
+    padding-top: 1.8rem;
     display: flex;
     flex-direction: column;
 

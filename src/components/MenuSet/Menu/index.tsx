@@ -12,11 +12,11 @@ const Menu: React.FC = () => {
     <>
       <MediaMatch hideOnMobile>
         <S.ColumnMenu className="main-menu">
-          <h3>Mac<span>Manager</span></h3>
+          <h3> Machine <span> Management </span></h3>
           <S.UserInfo>
             <img src="/images/helen-brown.jpeg" alt="Foto da Helen" />
             <p>
-              Wellcome back,<br/>
+              Welcome back,<br/>
               <strong>Helen Brown</strong>
             </p>
           </S.UserInfo>
@@ -30,7 +30,7 @@ const Menu: React.FC = () => {
           <S.UserInfo>
             <img src="/images/helen-brown.jpeg" alt="Foto da Helen" />
             <p>
-              Wellcome back,<br/>
+              Welcome back,<br/>
               <strong>Helen Brown</strong>
             </p>
           </S.UserInfo>

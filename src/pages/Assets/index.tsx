@@ -40,7 +40,6 @@ const Assets: React.FC = () => {
       variants={pageVariants}
       transition={pageTransition}
     >
-      <Title>Assets</Title>
 
       <S.Content>
         <div className="cards">

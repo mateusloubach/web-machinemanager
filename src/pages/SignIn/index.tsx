@@ -24,8 +24,8 @@ const SignIm: React.FC = () => {
         <Logo />
         <form onSubmit={handleSubmit(onSubmit)}>
           <h2>
-            Sign in for <br/>
-            <span>Manage</span>.
+            Sign in to<br/>
+            <span>Machine Manager</span>.
           </h2>
 
           <label htmlFor="email">Email</label>
@@ -38,7 +38,7 @@ const SignIm: React.FC = () => {
           
           <div className="buttons">
             <Button>Log In</Button>
-            <a href="https://github.com/Wtheodoro/machine-manager" target="_blank" rel="noreferrer">
+            <a href="https://github.com/mateusloubach/tr_challenge#sign-in" target="_blank" rel="noreferrer">
               Forgot Password?
             </a>
           </div>
